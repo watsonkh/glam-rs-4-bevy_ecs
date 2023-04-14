@@ -1,5 +1,5 @@
 // Generated from vec.rs.tera template. Edit the template, not the generated file.
-use bevy_ecs::prelude::Component;
+use bevy_ecs::component::Component;
 
 use crate::{f32::math, BVec3, Vec2, Vec4};
 
